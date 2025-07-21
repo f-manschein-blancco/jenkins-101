@@ -7,5 +7,5 @@ Activities:
 - set up freestyle projects
 - set up pipeline
 - set up agents
-- using Jenkinfiles
-- trigerring builds automatically
+- using Jenkinsfiles
+- triggering builds automatically
